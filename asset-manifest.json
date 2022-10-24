@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Formatter/static/css/main.c210b550.css",
+    "main.js": "/Text-Formatter/static/js/main.b0874f13.js",
+    "index.html": "/Text-Formatter/index.html",
+    "main.c210b550.css.map": "/Text-Formatter/static/css/main.c210b550.css.map",
+    "main.b0874f13.js.map": "/Text-Formatter/static/js/main.b0874f13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c210b550.css",
+    "static/js/main.b0874f13.js"
+  ]
+}
